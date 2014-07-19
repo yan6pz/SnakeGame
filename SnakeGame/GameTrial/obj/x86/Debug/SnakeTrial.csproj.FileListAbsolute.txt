@@ -1,0 +1,8 @@
+D:\C#\GameTrial\GameTrial\bin\Debug\GameTrial.exe
+D:\C#\GameTrial\GameTrial\bin\Debug\GameTrial.pdb
+D:\C#\GameTrial\GameTrial\obj\x86\Debug\GameTrial.GameEngine.resources
+D:\C#\GameTrial\GameTrial\obj\x86\Debug\GameTrial.Properties.Resources.resources
+D:\C#\GameTrial\GameTrial\obj\x86\Debug\SnakeTrial.csproj.GenerateResource.Cache
+D:\C#\GameTrial\GameTrial\obj\x86\Debug\GameTrial.exe
+D:\C#\GameTrial\GameTrial\obj\x86\Debug\GameTrial.pdb
+D:\C#\GameTrial\GameTrial\obj\x86\Debug\SnakeTrial.csprojResolveAssemblyReference.cache
